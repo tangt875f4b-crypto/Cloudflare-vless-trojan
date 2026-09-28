@@ -1,0 +1,4 @@
+name = "tangt-vless-worker"
+main = "Vless_workers_pages/_worker.js"
+compatibility_date = "2026-09-29"
+workers_dev = true
